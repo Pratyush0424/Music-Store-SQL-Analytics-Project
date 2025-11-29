@@ -54,7 +54,10 @@ SELECT genre, artist, total_revenue
 FROM genre_artist_revenue
 WHERE ranked <= 3
 ORDER BY 1, ranked;
-'''
-## Website my tableau public account for dashbord
-Tableau Public: https://public.tableau.com/views/MusicStoreSalesDashboard_17644350342060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+**Interactive Visualization:**  
+[![Music Store Sales Dashboard](https://public.tableau.com/static/images/Mu/MusicStoreSalesDashboard_17644350342060/Dashboard1/1.png)](https://public.tableau.com/views/MusicStoreSalesDashboard_17644350342060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) [web:24]
+
+
 
