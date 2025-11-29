@@ -31,6 +31,10 @@ This project explores a fictional **digital music store database** using SQL to 
 | Customer Retention | Repeat purchase rate |
 
 ---
+**Interactive visualization**
+
+[Music Store Sales Dashboard](https://public.tableau.com/views/MusicStoreSalesDashboard_17644350342060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Highlight Queries
 
@@ -55,9 +59,4 @@ FROM genre_artist_revenue
 WHERE ranked <= 3
 ORDER BY 1, ranked;
 
-
-
-**Interactive visualization**
-
-[Music Store Sales Dashboard](https://public.tableau.com/views/MusicStoreSalesDashboard_17644350342060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
